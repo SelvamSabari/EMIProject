@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="16" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T17:28:13 IST" name="Suite" finished-at="2024-02-29T17:34:32 IST" duration-ms="378547">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T17:28:13 IST" name="Test" finished-at="2024-02-29T17:34:32 IST" duration-ms="378547">
+      <class name="TestClass.TC_1HomePageValidation">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestClass.TC_1HomePageValidation@f0da945]" started-at="2024-02-29T17:28:15 IST" name="setup" finished-at="2024-02-29T17:30:02 IST" duration-ms="106746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePageValidation()[pri:0, instance:TestClass.TC_1HomePageValidation@f0da945]" started-at="2024-02-29T17:30:02 IST" name="HomePageValidation" finished-at="2024-02-29T17:30:03 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation -->
+        <test-method signature="HomePageValidation1()[pri:0, instance:TestClass.TC_1HomePageValidation@f0da945]" started-at="2024-02-29T17:30:04 IST" name="HomePageValidation1" finished-at="2024-02-29T17:30:12 IST" duration-ms="7742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation1 -->
+        <test-method signature="HomePageValidation2()[pri:0, instance:TestClass.TC_1HomePageValidation@f0da945]" started-at="2024-02-29T17:30:12 IST" name="HomePageValidation2" finished-at="2024-02-29T17:30:12 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation2 -->
+        <test-method signature="HomePageValidation3()[pri:0, instance:TestClass.TC_1HomePageValidation@f0da945]" started-at="2024-02-29T17:30:13 IST" name="HomePageValidation3" finished-at="2024-02-29T17:30:13 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation3 -->
+        <test-method signature="HomePageValidation4()[pri:0, instance:TestClass.TC_1HomePageValidation@f0da945]" started-at="2024-02-29T17:30:13 IST" name="HomePageValidation4" finished-at="2024-02-29T17:30:13 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation4 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestClass.TC_1HomePageValidation@f0da945]" started-at="2024-02-29T17:34:30 IST" name="teardown" finished-at="2024-02-29T17:34:32 IST" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestClass.TC_1HomePageValidation -->
+      <class name="TestClass.TC_3LoanCalculator">
+        <test-method signature="LoanCalculator1()[pri:0, instance:TestClass.TC_3LoanCalculator@2c1b194a]" started-at="2024-02-29T17:32:44 IST" name="LoanCalculator1" finished-at="2024-02-29T17:34:18 IST" duration-ms="93602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanCalculator1 -->
+        <test-method signature="LoanCalculator2()[pri:0, instance:TestClass.TC_3LoanCalculator@2c1b194a]" started-at="2024-02-29T17:34:19 IST" name="LoanCalculator2" finished-at="2024-02-29T17:34:23 IST" duration-ms="4263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanCalculator2 -->
+        <test-method signature="LoanCalculator3()[pri:0, instance:TestClass.TC_3LoanCalculator@2c1b194a]" started-at="2024-02-29T17:34:23 IST" name="LoanCalculator3" finished-at="2024-02-29T17:34:28 IST" duration-ms="4790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanCalculator3 -->
+        <test-method signature="LoanCalculator4()[pri:0, instance:TestClass.TC_3LoanCalculator@2c1b194a]" started-at="2024-02-29T17:34:29 IST" name="LoanCalculator4" finished-at="2024-02-29T17:34:30 IST" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanCalculator4 -->
+      </class> <!-- TestClass.TC_3LoanCalculator -->
+      <class name="TestClass.TC_2HomeLoanEmiCalculators">
+        <test-method signature="HomeLoanCalculation()[pri:0, instance:TestClass.TC_2HomeLoanEmiCalculators@32502377]" started-at="2024-02-29T17:30:14 IST" name="HomeLoanCalculation" finished-at="2024-02-29T17:31:56 IST" duration-ms="102708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoanCalculation -->
+        <test-method signature="HomeLoanCalculation1()[pri:0, instance:TestClass.TC_2HomeLoanEmiCalculators@32502377]" started-at="2024-02-29T17:31:57 IST" name="HomeLoanCalculation1" finished-at="2024-02-29T17:32:09 IST" duration-ms="12559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoanCalculation1 -->
+        <test-method signature="HomeLoanCalculation2()[pri:0, instance:TestClass.TC_2HomeLoanEmiCalculators@32502377]" started-at="2024-02-29T17:32:10 IST" name="HomeLoanCalculation2" finished-at="2024-02-29T17:32:44 IST" duration-ms="33719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoanCalculation2 -->
+      </class> <!-- TestClass.TC_2HomeLoanEmiCalculators -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
